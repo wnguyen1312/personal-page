@@ -9,7 +9,9 @@ redirect_from:
 
 # About Me
 👨‍💻 I am a third-year  [MSci Physics](https://www.imperial.ac.uk/study/courses/undergraduate/physics-msci/)  student at Imperial College London 🇬🇧, spending my junior year abroad at MIT 🇺🇸 <br>
+
 🔬 My research interests lie in accelerator physics and fusion science <br>
+
 🛫 I grew up in Ho Chi Minh city, Vietnam 🇻🇳. I enjoy travelling and exploring about different cultures and cuisines! 
 
 
