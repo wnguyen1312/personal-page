@@ -32,6 +32,5 @@ Learn more about my work at my [Google Scholar](https://scholar.google.com/citat
 
 Feel free to reach out to me at [wgn21@ic.ac.uk](wgn21@ic.ac.uk).
 
-Thank you for visiting my academic page!
 
 
