@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nice to meet you, I'm Bao!"
+title: "👋 Hello there, I'm Bao!"
 author_profile: true
 redirect_from: 
   - /about/
