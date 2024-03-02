@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 👨‍💻 I am a third-year  [MSci Physics](https://www.imperial.ac.uk/study/courses/undergraduate/physics-msci/)  student at Imperial College London 🇬🇧, spending my junior year abroad at MIT 🇺🇸 <br>
 
 🔬 My research interests lie in accelerator physics and fusion science <br>
