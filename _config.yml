@@ -21,7 +21,7 @@ repository               : "/personal-page"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "photo2.jpg"
   name             : "Bao Nguyen"
   pronouns         :  "he/him"  
   bio              : "Imperial-MIT Physics Exchange Student with a strong interest in accelerator and fusion science"
